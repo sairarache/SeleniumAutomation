@@ -10,7 +10,7 @@
 				</run>
 			</groups>
 			<classes>
-				<class name="testNGcommands.Grouping"></class>
+				<class name="Grouping.xml"></class>
 			</classes>
 	</test>	
 </suite>
