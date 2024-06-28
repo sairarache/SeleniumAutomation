@@ -22,7 +22,6 @@ public class Excelcode {
 		XSSFCell d=r.getCell(col);
 		return d.getStringCellValue();
 		
-		
 	}
    public static String readIntegerData(int row,int col) throws IOException
    {
