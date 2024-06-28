@@ -13,6 +13,5 @@
 		<classes>
 			<class name="testCases.Workerpagetestcase"></class>
 		</classes>
-	</test>
-	
+	</test>	
 </suite>
